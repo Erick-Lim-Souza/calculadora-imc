@@ -1,4 +1,4 @@
-#Calculadora completa - Erick
+#Calculadora completa - Erick PROJETO EM PYTHON
 import math
 
 #Peça ao usuário para inserir seu peso e altura.
